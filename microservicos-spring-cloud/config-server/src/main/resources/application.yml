@@ -9,5 +9,5 @@ spring:
         encrypt:
             enabled: false
         git:
-          uri: https://github.com/rafaelqleite/microservicos-spring-cloud/
+          uri: https://github.com/rafaelqleite/projetosjava/tree/master/microservicos-spring-cloud/
           search-paths: fornecedor
